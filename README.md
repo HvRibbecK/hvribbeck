@@ -1,27 +1,17 @@
-<h2> Hi, I'm HvRibbecK, i have no clue what i'm douing. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm HvRibbecK, i have no clue what i'm douing. <img src="https://media.giphy.com/media/RllkJm29UqoYof1uw7/giphy.gif" width="150"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Professional StackOverflow 'fxck im the first one with this question' user 
+</br><p><em>Professional StackOverflow 'fxck im the first one with this question' user 
 </br>CTRL+F -> CTRL+C -> CTRL+V -> F5 -> CTRL+Z</em></p>
 
-[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/HvRibbecK)
+[![GitHub HvRibbecK](https://img.shields.io/github/followers/hvribbeck?label=follow&style=social)](https://github.com/HvRibbecK)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Still not annoyed...?  
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+const hvribbeck = {
+  pronouns: "he" | "his",
+  code: [C#, C++, HTML, CSS, 'PHP', Python, JavaScript, VBScript, AHK, AutoIt],
+  favorites: [frontend, game-trainer, collecting-game-bans],
 }
 ```
 
