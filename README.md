@@ -4,6 +4,7 @@
 </br>CTRL+F -> CTRL+C -> CTRL+V -> F5 -> CTRL+Z</em></p>
 
 [![GitHub HvRibbecK](https://img.shields.io/github/followers/hvribbeck?label=follow&style=social)](https://github.com/HvRibbecK)
+![](https://visitor-badge.glitch.me/badge?page_id=hvribbeck.hvribbeck)
 
 ### <img src="https://media.giphy.com/media/WQCo6cQ6oa1vEFYtmA/giphy.gif" width="60"> Still not annoyed...?  
 
