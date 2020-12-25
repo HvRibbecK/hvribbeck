@@ -5,7 +5,7 @@
 
 [![GitHub HvRibbecK](https://img.shields.io/github/followers/hvribbeck?label=follow&style=social)](https://github.com/HvRibbecK)
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Still not annoyed...?  
+### <img src="https://media.giphy.com/media/WQCo6cQ6oa1vEFYtmA/giphy.gif" width="60"> Still not annoyed...?  
 
 ```javascript
 const hvribbeck = {
@@ -15,6 +15,6 @@ const hvribbeck = {
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<img src="https://media.giphy.com/media/JrGbJJlUnbNLY3XZak/giphy.gif" width="60"> <em><b>Hit me up</b> if you want to say hi,<b>or check out my website!</b> :)</em>
 
 ---
