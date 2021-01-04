@@ -11,8 +11,8 @@
 ```javascript
 const hvribbeck = {
   pronouns: "he" | "his",
-  code: [C#, C++, HTML, CSS, 'PHP', Python, JavaScript, VBScript, AHK, AutoIt],
-  favorites: [frontend, game-trainer, collecting-game-bans],
+  code: [C#, C++, HTML, CSS, PHP, Python, JavaScript, VBScript, AHK, AutoIt],
+  favorites: [frontend coding, gaming],
 }
 ```
 
