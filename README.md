@@ -6,8 +6,6 @@
 [![GitHub HvRibbecK](https://img.shields.io/github/followers/hvribbeck?label=follow&style=social)](https://github.com/HvRibbecK)
 ![](https://visitor-badge.glitch.me/badge?page_id=hvribbeck.hvribbeck)
 
-### <img src="https://media.giphy.com/media/WQCo6cQ6oa1vEFYtmA/giphy.gif" width="60"> Still not annoyed...?  
-
 <img src="https://media.giphy.com/media/JrGbJJlUnbNLY3XZak/giphy.gif" width="60"> <em><b>Hit me up</b> if you want to say hi, <b>or check out my website!</b> :)</em>
 
 ---
