@@ -7,5 +7,3 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=hvribbeck.hvribbeck)
 
 <img src="https://media.giphy.com/media/JrGbJJlUnbNLY3XZak/giphy.gif" width="60"> <em><b>Hit me up</b> if you want to say hi, <b>or check out my website!</b> :)</em>
-
----
