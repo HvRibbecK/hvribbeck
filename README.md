@@ -8,14 +8,6 @@
 
 ### <img src="https://media.giphy.com/media/WQCo6cQ6oa1vEFYtmA/giphy.gif" width="60"> Still not annoyed...?  
 
-```javascript
-const hvribbeck = {
-  pronouns: "he" | "his",
-  code: [C#, C++, HTML, CSS, PHP, Python, JavaScript, VBScript, AHK, AutoIt],
-  favorites: [frontend coding, gaming],
-}
-```
-
 <img src="https://media.giphy.com/media/JrGbJJlUnbNLY3XZak/giphy.gif" width="60"> <em><b>Hit me up</b> if you want to say hi, <b>or check out my website!</b> :)</em>
 
 ---
